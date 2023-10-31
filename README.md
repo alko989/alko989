@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### :octocat: GitHub stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alko989&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alko989&theme=dark)](https://git.io/streak-stats)
 
 [![alko989's GitHub stats](https://github-readme-stats.vercel.app/api?username=alko989&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
